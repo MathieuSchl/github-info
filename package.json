@@ -1,6 +1,6 @@
 {
   "name": "github-info-inspector",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is an npm package that allows you to get user informations from a username.",
   "main": "index.js",
   "scripts": {
