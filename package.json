@@ -1,0 +1,29 @@
+{
+  "name": "github-info-inspector",
+  "version": "1.0.0",
+  "description": "This is an npm package that allows you to get user informations from a username.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest -i"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MathieuSchl/github-info.git"
+  },
+  "keywords": [
+    "node.js",
+    "github"
+  ],
+  "author": "CodyIsTheSenate",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MathieuSchl/github-info/issues"
+  },
+  "homepage": "https://github.com/MathieuSchl/github-info#readme",
+  "dependencies": {
+    "puppeteer": "^21.5.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
