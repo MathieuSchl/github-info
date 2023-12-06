@@ -1,3 +1,3 @@
-const gitHubInfo = require("./class/gitHubInfo");
+const Profile = require("./class/profile");
 
-module.exports = gitHubInfo;
+module.exports = Profile;
